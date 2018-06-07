@@ -26,3 +26,11 @@ and manage tasks.
 
 
 ## User Interface
+
+Here are a few examples of different states of the app during runtime.
+
+![App Beginning State Screenshot](https://raw.githubusercontent.com/matthewbinshtok/To-Do-List-React/master/public/app-state-1.png)
+
+![App Middle State Screenshot](https://raw.githubusercontent.com/matthewbinshtok/To-Do-List-React/master/public/app-state-2.png)
+
+![App Later State Screenshot](https://raw.githubusercontent.com/matthewbinshtok/To-Do-List-React/master/public/app-state-3.png)
